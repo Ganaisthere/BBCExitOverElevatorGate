@@ -55,6 +55,7 @@ namespace BBCExitOverElevatorGate
                 Log("Loading File: " + fileName, 1);
                 AddTexture2D(fileName, "Textures");
             }
+
         }
 
         internal void AddLocalization(string fileNameWithExtension, string chlidPath = null, Language language = Language.English)
