@@ -1,6 +1,6 @@
 # Baldi's Basic Classic Exit Replace Elevator Gate
 
-https://gamebanana.com/mods/731198
+[https://gamebanana.com/mods/731198](https://gamebanana.com/mods/731198)
 
 Basically, this mod modifies the appearance, sound effects, and animation of the elevator gate in the game, making it more like the exit in "Baldi's Basics Classic"(and it's remastered version).
 
